@@ -1,4 +1,4 @@
 My dissertation -- Epuck
 =====
 
-epuck automatically avoid obstruction and form control
+This is my Dissertation. Epucks can automatically avoid obstruction and keep their formation.
